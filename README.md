@@ -3,6 +3,10 @@ Project ini merupakan pengembangan kalkulator scientific berbasis web yang diran
 
  https://aditya-tres.github.io/kakulator-aditya-akbar-baru/
 
+ # Tampilan UI
+
+ <img width="902" height="568" alt="Image" src="https://github.com/user-attachments/assets/bfe176cf-b176-47e4-8470-0a424ab5c202" />
+
 ## Fitur
 - Aritmatika Dasar (Penjumplahan, Pengurangan, Perkalian, Pembagian , Persen) 
 - Trigonometri (Sin, Cos, Tan)
